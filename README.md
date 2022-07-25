@@ -12,7 +12,7 @@ Want to know more, please visit my [personal website](https://caturanggaadiyaksa
 <a href="https://github.com/caturanggadiyaksa">
   <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=caturanggadiyaksa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=caturanggadiyaksa&layout=compact&langs_count=8&theme=tokyonight"/>
-  <img height="190em" src="">
+  <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=caturanggadiyaksa&theme=tokyonight">
 </a>
 </p>
 
