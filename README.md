@@ -1,7 +1,7 @@
 # Hello Everyone 👋
 
 ## 👨🏻‍💻 &nbsp;About Me
-My name is **Catur Angga Adiyaksa**. I'm an *Undergraduate Student* at BIU Bina Insani Unevsity. I am a *CAA* at [CAA](https://caa.web.id).
+My name is **Catur Angga Adiyaksa**. I'm an *Undergraduate Student* at BIU Bina Insani Uneversity. I am a founder  *CAA* and Leader at [CAA](https://caa.web.id).
 
 I am a hard worker and can create simple websites. During more than a year of learning programming, I managed to create several websites and understand the programming languages such as Java, JavaScript, and Python. As an informatics engineering student, I am committed to learning and developing skills in software engineering, and web development.
 
@@ -12,9 +12,9 @@ Want to know more, please visit my [personal website](https://caturanggaadiyaksa
 
 
 - <a href="https://www.instagram.com/angga_adiyaksa.id/"><img src="https://img.shields.io/badge/instagram%20@angga_adiyaksa.id-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-- <a href="https://www.instagram.com/teen_developer/"><img src="https://img.shields.io/badge/facebook%20@saviomartin.1694-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-- <a href="https://www.instagram.com/teen_developer/"><img src="https://img.shields.io/badge/twitter%20@saviomartin3-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-- <a href="https://savio.works/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20savio.works-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
+- <a href="https://www.instagram.com/angga_adiyaksa.id/"><img src="https://img.shields.io/badge/facebook%20@caturanggaadiyaksa-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+- <a href="https://www.instagram.com/angga_adiyaksa.id/"><img src="https://img.shields.io/badge/twitter%20@caturangga-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+- <a href="https://caa.web.id/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20caa.web.id-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/skills.png?raw=true">
 
