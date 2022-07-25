@@ -18,8 +18,8 @@ Want to know more, please visit my [personal website](https://caturanggaadiyaksa
 
 ## ❤ &nbsp;Views and Followers
 <p align="left">
-  <img src="" alt="caturanggadiyaksa" />
-  <a href="">
-    <img src="" alt="GitHub Badge">
+  <img src="https://komarev.com/ghpvc/?username=caturanggadiyaksa&label=Profile%20views&color=0e75b6&style=flat" alt="caturanggadiyaksa" />
+  <a href="https://github.com/caturanggadiyaksa?tab=followers">
+    <img src="https://img.shields.io/github/followers/caturanggadiyaksa?label=Followers&style=social" alt="GitHub Badge">
   </a>
 </p>
