@@ -58,4 +58,4 @@ Want to know more, please visit my [personal website](https://caturanggaadiyaksa
   </a>
 </p>
 
-<img src="https://github.com/caturanggadiyaksa/caturanggadiyaksa/issues/1#issue-1317617667" />
+
