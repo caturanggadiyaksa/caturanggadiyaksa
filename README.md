@@ -26,7 +26,7 @@ Want to know more, please visit my [personal website](https://caturanggaadiyaksa
 - <a href="https://www.instagram.com/angga_adiyaksa.id/"><img src="https://img.shields.io/badge/twitter%20@caturangga-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 - <a href="https://caa.web.id/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20caa.web.id-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
 
-<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/skills.png?raw=true">
+<img align="center" src="https://avatars.githubusercontent.com/u/88980174?v=4">
 
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
