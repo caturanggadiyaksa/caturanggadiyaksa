@@ -1,5 +1,15 @@
 # Hello Everyone 👋
 
+
+
+<div align="center" width="50">
+
+<img src="https://github.com/caturanggadiyaksa/caturanggadiyaksa/blob/main/githubprofile.gif?raw=true" alt="Welcome!" width="300"/>
+
+</div>
+
+
+
 ## 👨🏻‍💻 &nbsp;About Me
 My name is **Catur Angga Adiyaksa**. I'm an *Undergraduate Student* at BIU Bina Insani Uneversity. I am a founder  *CAA* and Leader at [CAA](https://caa.web.id).
 
