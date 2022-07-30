@@ -2,9 +2,9 @@
 
 
 
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://github.com/caturanggadiyaksa/caturanggadiyaksa/blob/main/githubprofile.gif?raw=true" alt="Welcome!" width="300"/>
+<img src="https://github.com/caturanggadiyaksa/caturanggadiyaksa/blob/main/profile.gif?raw=true" alt="Welcome!" width="100%"/>
 
 </div>
 
